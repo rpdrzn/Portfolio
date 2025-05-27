@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Ralph Pabua Portfolio</title>
+  <link rel="stylesheet" href="style.css" />
+  <script defer src="script.js"></script>
+  <link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+</head>
+<body>
+  <header>
+    <nav>
+      <ul class="nav-links">
+        <li><a href="#home" class="active">Home</a></li>
+        <li><a href="#portfolio">Portfolio</a></li>
+        <li><a href="#skills">Skills & Talents</a></li>
+        <li><a href="#organizations">Organizations</a></li>
+        <li><a href="#services">Services</a></li>
+        <li><a href="#testimonials">Testimonials</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section id="home" class="section home-section">
+      <div class="profile-info">
+        <div class="profile-img">
+          <img id="profileImage" alt="Ralph Pabua" />
+        </div>
+        <div class="intro">
+          <h1 id="name"></h1>
+          <h3 id="quote"></h3>
+          <p class="location" id="location"></p>
+          <br>
+          <div class="social-icons" id="homeSocial"></div>
+        </div>
+      </div>
+    </section>
+<br>
+<br>
+<br>
+    <section id="portfolio" class="section">
+          <br>
+          <br>
+      <h2>PORTFOLIO</h2>
+      <div class="projects" id="projects"></div>
+    </section>
+<br>
+<br>
+    <section id="skills" class="section">
+      <div class="skills-talents">
+        <div>
+          <br>
+          <br>
+          <h2>SKILLS</h2>
+          <ul class="skills-list" id="skillsList"></ul>
+        </div>
+        
+        <div>
+          <h2>TALENTS</h2>
+          <ul class="skills-list" id="talentsList"></ul>
+        </div>
+      </div>
+    </section>
+
+    <section id="organizations" class="section">
+      <br>
+<br>
+      <h2>ORGANIZATIONS</h2>
+      <ul class="organizations-list" id="organizationsList"></ul>
+    </section>
+<br>
+<br>
+<br>
+    <section id="services" class="section">
+      <br>
+<br>
+      <h2>SERVICES</h2>
+      <div class="services-list" id="servicesList"></div>
+    </section>
+<br>
+<br>
+<br>
+<br>
+<br>
+    <section id="testimonials" class="section">
+<br>
+<br>
+      <h2>TESTIMONIALS</h2>
+      <div class="testimonials-list" id="testimonialsList"></div>
+    </section>
+<br>
+<br>
+<br>
+    <section id="contact" class="section">
+      <br>
+<br>
+      <h2>CONTACT</h2>
+      <p>Email: <a id="email"></a></p>
+      <p>Phone:<a><span id="phone"></span></a></p>
+      <div class="social-icons" id="contactSocial"></div>
+
+      <form id="contact-form" action="#" method="post" onsubmit="return false;">
+        <input type="text" id="nameInput" placeholder="Your Name" required />
+        <input type="email" id="emailInput" placeholder="Your Email" required />
+        <textarea id="message" placeholder="Your Message" required></textarea>
+        <button type="submit">Send</button>
+      </form>
+    </section>
+  </main>
+</body>
+</html>

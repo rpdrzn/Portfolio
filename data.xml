@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<portfolio>
+  <profile>
+    <name>RALPH UMACOB PABUA</name>
+    <quote>"Life's greatest tragedy isn't death, but living without purpose."</quote>
+    <location>Bangcas-B, Hinunangan Southern Leyte</location>
+    <profileImage>images/pabua copy.jpg</profileImage>
+    <socialMedia>
+      <facebook>https://facebook.com/rapderozan</facebook>
+      <instagram>https://instagram.com/raedwulff</instagram>
+      <tiktok>https://tiktok.com/in/@rpdrzn1</tiktok>
+    </socialMedia>
+  </profile>s
+
+  <portfolio>
+   <project>
+      <title>Inventory System</title>
+      <description>A web app built with VB.net and mysql.</description>
+      <technologies>
+        <technology>VB.net</technology>
+        <technology>MYSQL</technology>
+
+      </technologies>
+      <link>https://github.com/rpdrzn/Inventory-System.git</link>
+    </project>
+    <project>
+      <title>Bus Reservation System</title>
+      <description>A responsive website built with PHP,HTML, CSS, and JavaScript.</description>
+      <technologies>
+        <technology>PHP</technology>
+        <technology>HTML</technology>
+        <technology>CSS</technology>
+        <technology>JavaScript</technology>
+      </technologies>
+      <link>https://github.com/rpdrzn/Bus-Reservation-System.git</link>
+    </project>
+    
+    <project>
+      <title>Sudoku Game</title>
+      <description>An app built with Python.</description>
+      <technologies>
+        <technology>Python</technology>
+      </technologies>
+      <link>https://github.com/rpdrzn/Sudoku-Game.git</link>
+    </project>
+  </portfolio>
+
+  <skills>
+    <skill>Electronics Enthusiast</skill>
+    <skill>HTML Basics</skill>
+    <skill>Graphic Designer</skill>
+    <skill>Hacking Basics</skill>
+  </skills>
+
+  <talents>
+    <talent>Crosshatch Drawing</talent>
+    <talent>Guitarist</talent>
+    <talent>Keyboardist</talent>
+    <talent>Bassist</talent>
+    <talent>Drummer</talent>
+    <talent>Basketball</talent>
+    <talent>Chess</talent>
+  </talents>
+
+  <organizations>
+    <organization>
+      <name>AMAZING HOPE MUSIC MINISTRY</name>
+      <role>All around Instrumentalist</role>
+      <period>2020–Present</period>
+    </organization>
+    <organization>
+      <name>AMAZING HOPE CHRISTIAN CHURCH INTL(AHCCI)</name>
+      <role>Member</role>
+      <period>2018–Present</period>
+    </organization>
+    <organization>
+      <name>THE PRIMARY 12</name>
+      <role>Primary Leader</role>
+      <period>2021–Present</period>
+    </organization>
+    <organization>
+      <name>SLSU-HC PFG</name>
+      <role>Member</role>
+      <period>2022–2023</period>
+    </organization>
+    <organization>
+      <name>SLSU-HC PASUC LIVE BAND</name>
+      <role>Lead Guitarist</role>
+      <period>2023</period>
+    </organization>
+    <organization>
+      <name>SLSU-HC SITS</name>
+      <role>IT Student</role>
+      <period>2022–Present</period>
+    </organization>
+  </organizations>
+
+  <services>
+    <service>
+      <title>Tech Enthusiast</title>
+      <description>I am creative and curious individual with a passion for learning and exploring new ideas.</description>
+    </service>
+    <service>
+      <title>Tutoring</title>
+      <description>Helping someone to learn about musical instrument.</description>
+    </service>
+    <service>
+      <title>Graphic Design</title>
+      <description>Creating logos, posters, and digital artwork.</description>
+    </service>
+  </services>
+
+  <testimonials>
+    <testimonial>
+      <text>"Ralph’s wisdom and kindness shine through in everything he does.
+       He leads not just with skill, but with a heart that lifts others up and 
+       encourages growth. Yet, above all, his life is a testament to God’s grace uplifting 
+       Him above himself, walking in faith, and inspiring others to do the same."</text>
+      <author>Ptr. John Griego, Mentor/Pastor</author>
+    </testimonial>
+    <testimonial>
+      <text>"Despite our young age ,Ralph leads with courage, faith, and purpose.
+       His dedication inspires others to grow, serve, and believe. A leader not
+        defined by age, but by heart and vision."</text>
+      <author>Mark Costa, Primary Leader</author>
+    </testimonial>
+     <testimonial>
+      <text>"Through every stage of life, Ralph has been a guiding light of wisdom 
+      and inspiration. His talent isn’t just about mastery, it’s about his ability to
+       uplift others, see potential where others may not, and encourage people to 
+       grow into their best selves. I’m grateful to have a friend whose kindness and
+        brilliance truly make a difference."</text>
+      <author>Raniel Severino, Close friend</author>
+    </testimonial>
+  </testimonials>
+
+  <contact>
+    <email>rapderozanpabua@gmail.com</email>
+    <phone>+63 948 170 6738</phone>
+    <socialLinks>
+      <facebook>https://facebook.com/rapderozan</facebook>
+      <instagram>https://instagram.com/pabuaralph</instagram>
+      <tiktok>https://tiktok.com/in/@rpdrzn1</tiktok>
+    </socialLinks>
+  </contact>
+</portfolio>
